@@ -1,7 +1,7 @@
 ### Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
 <img width="705" alt="service" src="https://github.com/user-attachments/assets/79dbd97f-60f7-46cb-834d-7c2ba9bd5a6b" />
 
-[Ссылка на задание ][(https://github.com/netology-code/aqa-qamid-diplom)](https://github.com/netology-code/aqa-qamid-diplom?tab=readme-ov-file)
+[Ссылка на задание ](https://github.com/netology-code/aqa-qamid-diplom)
 
 Задача автоматизировать позитивные и негативные сценарии покупки тура.
 
